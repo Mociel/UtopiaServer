@@ -1,0 +1,17 @@
+{
+	id: "e2c0f17d-1504-4699-bef2-243c428b41d7"
+	type: "player"
+	player_name: "HanserChenayi"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "HanserChenayi"
+		"ftbteams:color": "#FF9759"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

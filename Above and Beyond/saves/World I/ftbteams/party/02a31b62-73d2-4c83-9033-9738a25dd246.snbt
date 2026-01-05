@@ -1,0 +1,24 @@
+{
+	id: "02a31b62-73d2-4c83-9033-9738a25dd246"
+	type: "party"
+	owner: "f29be265-2a4d-4038-a927-0e7ac93f3054"
+	ranks: {
+		e2c0f17d-1504-4699-bef2-243c428b41d7: "member"
+		f29be265-2a4d-4038-a927-0e7ac93f3054: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Mociel's Party"
+		"ftbteams:color": "#FFC759"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1767266606828L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"Mociel\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "f29be265-2a4d-4038-a927-0e7ac93f3054", date: 1767266606834L, text: "{\"color\":\"green\",\"text\":\"Invited HanserChenayi\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1767266614976L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"HanserChenayi\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+	]
+	extra: { }
+}

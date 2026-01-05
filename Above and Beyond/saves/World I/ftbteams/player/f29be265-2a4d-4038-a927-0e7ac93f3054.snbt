@@ -1,0 +1,17 @@
+{
+	id: "f29be265-2a4d-4038-a927-0e7ac93f3054"
+	type: "player"
+	player_name: "Mociel"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Mociel"
+		"ftbteams:color": "#FFC759"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
